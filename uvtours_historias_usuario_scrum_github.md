@@ -2,7 +2,9 @@
 
 **Proyecto:** UvTours – API REST (Spring Boot) + SPA (React) para una agencia de viajes.
 
-**Herramienta:** Jira (plantilla Scrum). **Fecha de creación de las historias:** 30/09/2026.
+**Herramienta:** Jira (plantilla Scrum). **Fecha de documentación de las historias:** 30/09/2026.
+
+**Nota sobre la cronología:** El proyecto UvTours fue desarrollado previamente. El presente documento recoge y organiza posteriormente las funcionalidades del proyecto mediante historias de usuario, criterios de aceptación, tareas técnicas y una propuesta de distribución en sprints siguiendo una estructura Scrum
 
 **Responsables:** `Administrador` (tareas de back-office / admin) y `Cliente` (tareas del usuario final).
 
@@ -27,7 +29,7 @@
 
 ### HU01 – Registrarse e iniciar sesión
 
-- **Epic:** E1 · **Responsable:** Cliente · **Fecha de creación:** 30/09/2026
+- **Epic:** E1 · **Responsable:** Cliente · **Fecha de documentación:** 30/09/2026
 
 - **Estimación (planning poker):** 5 · **Valor:** 9 · **Prioridad:** Alta
 
@@ -63,7 +65,7 @@
 
 ### HU02 – Consultar el catálogo de viajes
 
-- **Epic:** E2 · **Responsable:** Cliente · **Fecha de creación:** 30/09/2026
+- **Epic:** E2 · **Responsable:** Cliente · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 3 · **Valor:** 9 · **Prioridad:** Alta
 
@@ -93,7 +95,7 @@
 
 ### HU03 – Dar de alta un viaje simple
 
-- **Epic:** E2 · **Responsable:** Administrador · **Fecha de creación:** 30/09/2026
+- **Epic:** E2 · **Responsable:** Administrador · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 5 · **Valor:** 8 · **Prioridad:** Alta
 
@@ -127,7 +129,7 @@
 
 ### HU04 – Actualizar y eliminar viajes
 
-- **Epic:** E2 · **Responsable:** Administrador · **Fecha de creación:** 30/09/2026
+- **Epic:** E2 · **Responsable:** Administrador · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 3 · **Valor:** 7 · **Prioridad:** Media
 
@@ -155,7 +157,7 @@
 
 ### HU05 – Crear un circuito con viajes simples
 
-- **Epic:** E2 · **Responsable:** Administrador · **Fecha de creación:** 30/09/2026
+- **Epic:** E2 · **Responsable:** Administrador · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 8 · **Valor:** 8 · **Prioridad:** Alta
 
@@ -187,7 +189,7 @@
 
 ### HU06 – Aplicar descuento de luna de miel
 
-- **Epic:** E2 · **Responsable:** Administrador · **Fecha de creación:** 30/09/2026
+- **Epic:** E2 · **Responsable:** Administrador · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 3 · **Valor:** 7 · **Prioridad:** Media
 
@@ -215,7 +217,7 @@
 
 ### HU07 – Gestionar clientes (CRUD)
 
-- **Epic:** E3 · **Responsable:** Administrador · **Fecha de creación:** 30/09/2026
+- **Epic:** E3 · **Responsable:** Administrador · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 5 · **Valor:** 8 · **Prioridad:** Alta
 
@@ -251,7 +253,7 @@
 
 ### HU08 – Gestionar tiendas
 
-- **Epic:** E4 · **Responsable:** Administrador · **Fecha de creación:** 30/09/2026
+- **Epic:** E4 · **Responsable:** Administrador · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 3 · **Valor:** 6 · **Prioridad:** Media
 
@@ -283,7 +285,7 @@
 
 ### HU09 – Gestionar empleados
 
-- **Epic:** E4 · **Responsable:** Administrador · **Fecha de creación:** 30/09/2026
+- **Epic:** E4 · **Responsable:** Administrador · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 3 · **Valor:** 6 · **Prioridad:** Media
 
@@ -317,7 +319,7 @@
 
 ### HU10 – Planificar actividades y gestionar su estado
 
-- **Epic:** E5 · **Responsable:** Administrador · **Fecha de creación:** 30/09/2026
+- **Epic:** E5 · **Responsable:** Administrador · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 8 · **Valor:** 8 · **Prioridad:** Alta
 
@@ -355,7 +357,7 @@
 
 ### HU11 – Vender un viaje en mostrador (con acompañantes)
 
-- **Epic:** E6 · **Responsable:** Administrador · **Fecha de creación:** 30/09/2026
+- **Epic:** E6 · **Responsable:** Administrador · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 8 · **Valor:** 9 · **Prioridad:** Alta
 
@@ -391,7 +393,7 @@
 
 ### HU12 – Comprar un viaje online
 
-- **Epic:** E6 · **Responsable:** Cliente · **Fecha de creación:** 30/09/2026
+- **Epic:** E6 · **Responsable:** Cliente · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 5 · **Valor:** 10 · **Prioridad:** Alta
 
@@ -421,7 +423,7 @@
 
 ### HU13 – Consultar mis compras
 
-- **Epic:** E6 · **Responsable:** Cliente · **Fecha de creación:** 30/09/2026
+- **Epic:** E6 · **Responsable:** Cliente · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 2 · **Valor:** 7 · **Prioridad:** Media
 
@@ -449,7 +451,7 @@
 
 ### HU14 – Inscribirme a una actividad
 
-- **Epic:** E7 · **Responsable:** Cliente · **Fecha de creación:** 30/09/2026
+- **Epic:** E7 · **Responsable:** Cliente · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 5 · **Valor:** 9 · **Prioridad:** Alta
 
@@ -483,7 +485,7 @@
 
 ### HU15 – Anular una inscripción propia
 
-- **Epic:** E7 · **Responsable:** Cliente · **Fecha de creación:** 30/09/2026
+- **Epic:** E7 · **Responsable:** Cliente · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 2 · **Valor:** 7 · **Prioridad:** Media
 
@@ -511,7 +513,7 @@
 
 ### HU16 – Gestionar inscripciones desde back-office
 
-- **Epic:** E7 · **Responsable:** Administrador · **Fecha de creación:** 30/09/2026
+- **Epic:** E7 · **Responsable:** Administrador · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 3 · **Valor:** 7 · **Prioridad:** Media
 
@@ -541,7 +543,7 @@
 
 ### HU17 – Ver la lista de actividades del día
 
-- **Epic:** E5 · **Responsable:** Cliente · **Fecha de creación:** 30/09/2026
+- **Epic:** E5 · **Responsable:** Cliente · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 3 · **Valor:** 8 · **Prioridad:** Alta
 
@@ -573,7 +575,7 @@
 
 ### HU18 – Administrar usuarios y roles
 
-- **Epic:** E1 · **Responsable:** Administrador · **Fecha de creación:** 30/09/2026
+- **Epic:** E1 · **Responsable:** Administrador · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 3 · **Valor:** 7 · **Prioridad:** Media
 
@@ -605,7 +607,7 @@
 
 ### HT01 – Configurar el sistema de control de versiones** **(historia técnica)\
 
-- **Epic:** E9 · **Responsable:** Administrador · **Fecha de creación:** 30/09/2026
+- **Epic:** E9 · **Responsable:** Administrador · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 3 · **Valor:** 8 · **Prioridad:** Alta
 
@@ -633,11 +635,11 @@
 
 ### HT02 – Definir las interfaces de usuario** **(tarea técnica obligatoria Sprint 1)\
 
-- **Epic:** E8 · **Responsable:** Administrador (interfaces de back-office) / Cliente (interfaces de usuario final) · **Fecha de creación:** 30/09/2026
+- **Epic:** E8 · **Responsable:** Administrador (interfaces de back-office) / Cliente (interfaces de usuario final) · **Fecha de documentación:** 30/09/2026
 
 - **Estimación:** 8 · **Valor:** 8 · **Prioridad:** Alta
 
-- **Descripción:** Como **equipo de desarrollo**, quiero **definir todas las interfaces de usuario del proyecto antes de empezar a implementar para que cada historia de usuario tenga su maqueta asociada**.
+- **Descripción:** Como **equipo de desarrollo**, quiero **documentar y organizar las interfaces de usuario del proyecto para que cada historia de usuario tenga su interfaz asociada y resulte clara la relación entre funcionalidades e implementación**.
 
 - **Criterios de aceptación:**
 
